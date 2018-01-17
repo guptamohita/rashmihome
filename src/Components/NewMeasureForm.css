@@ -1,0 +1,16 @@
+.mainpage{
+    height:600px;
+    width:700px;
+    border: 1px solid blue;
+}
+
+.measuredetail{
+    height: 550px;
+    width: 670px;
+    margin-left: 10px;    
+    border:1px solid red;
+}
+
+.detail{
+    background-color: grey;
+}
